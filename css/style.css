@@ -50,3 +50,49 @@ nav .search{
 	text-indent: 5px;
 
 }
+.centerArea{
+	margin :10px;
+	border : 1px solid black;
+}
+#lside,
+#rside{	
+	width : 11%;
+	height : 700px;
+	display: inline-block;
+    float: left;
+}
+
+
+#bodyarea{
+	margin :10px;
+	width : 75%;
+	height : 700px;
+	background-color : #EFEEF0;
+	border : 1px solid black;
+	border-radius : 5px;
+	display: inline-block;
+    float: left;
+	
+}
+aside{
+	border : 1px solid black;
+	border-radius : 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
